@@ -1,0 +1,1430 @@
+repo_name: officialmofabs/aspnetcore
+report_id: 2b0338bf9fc2e686742f81f9d66bdd77
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-15T23:48:38+00:00'
+requested_by: Kahbazi
+provider: github
+branch: main
+detected_tools_count: 107
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: 4.7.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/common/internal/Tools.csproj
+  detection_source: eng/common/internal/Tools.csproj
+  last_updated_by: dotnet-maestro[bot]
+  last_updated_on: 2021-08-02 14:13:19.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: F#
+  description: Strongly-typed, functional-first programming language for writing simple
+    code to solve complex problems
+  website_url: http://fsharp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2155/yRNL7yTW.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Lua
+  description: Powerful, fast, lightweight, embeddable scripting language
+  website_url: http://www.lua.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  detection_source: src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  last_updated_by: Doug Bunting
+  last_updated_on: 2019-08-16 23:57:52.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '5.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/GenerateFiles/GenerateFiles.csproj
+  detection_source: eng/tools/GenerateFiles/GenerateFiles.csproj
+  last_updated_by: Hao Kung
+  last_updated_on: 2022-03-02 00:06:16.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 4.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/common/internal/Tools.csproj
+  detection_source: eng/tools/GenerateFiles/GenerateFiles.csproj
+  last_updated_by: Hao Kung
+  last_updated_on: 2022-03-02 00:06:16.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Security/samples/ClaimsTransformation/bower.json
+  detection_source: src/Security/samples/ClaimsTransformation/bower.json
+  last_updated_by: Ryan Brandenburg
+  last_updated_on: 2019-02-05 22:31:15.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/.devcontainer/Dockerfile
+  detection_source: ".devcontainer/Dockerfile"
+  last_updated_by: Safia Abdalla
+  last_updated_on: 2021-06-14 18:04:03.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Andrew Stanton-Nurse
+  last_updated_on: 2018-01-19 22:26:31.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Security/samples/ClaimsTransformation/bower.json
+  detection_source: src/Security/samples/ClaimsTransformation/bower.json
+  last_updated_by: Mackinnon Buck
+  last_updated_on: 2023-09-01 22:14:39.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/ts/FunctionalTests/package.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Andrew Stanton-Nurse
+  last_updated_on: 2018-01-19 22:26:31.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.23.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/babel.config.js
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Components/Web.JS/package.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Steve Sanderson
+  last_updated_on: 2017-12-06 22:38:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/.github/workflows/backport.yml
+  detection_source: ".github/workflows/backport.yml"
+  last_updated_by: Alexander Köplinger
+  last_updated_on: 2022-11-04 09:13:21.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/build.gradle
+  last_updated_by: Brennan
+  last_updated_on: 2022-08-16 00:01:56.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 3.99.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Steve Sanderson
+  last_updated_on: 2021-09-21 16:28:05.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Steve Sanderson
+  last_updated_on: 2017-12-06 22:38:26.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: Logback
+  description: A logging framework for Java applications
+  website_url: https://logback.qos.ch/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/test/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/test/build.gradle
+  last_updated_by: Brennan
+  last_updated_on: 2020-09-11 18:44:00.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/ts/FunctionalTests/package.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Andrew Stanton-Nurse
+  last_updated_on: 2018-06-12 20:42:21.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Servers/test/FunctionalTests/nginx.conf
+  detection_source: src/Servers/test/FunctionalTests/nginx.conf
+  last_updated_by: BrennanConroy
+  last_updated_on: 2016-03-23 22:54:14.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  detection_source: src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  last_updated_by: Doug Bunting
+  last_updated_on: 2018-09-04 03:08:00.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/core/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/core/build.gradle
+  last_updated_by: William Godbe
+  last_updated_on: 2020-09-02 00:37:56.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/AspNetCore.sln
+  detection_source: AspNetCore.sln
+  last_updated_by: James Newton-King
+  last_updated_on: 2022-09-29 08:34:58.000000000 Z
+- name: Visual Studio Code
+  description: Build and debug modern web and cloud applications, by Microsoft
+  website_url: https://code.visualstudio.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/.vscode/tasks.json
+  detection_source: ".vscode/tasks.json"
+  last_updated_by: Shreyas Jejurkar
+  last_updated_on: 2021-11-01 18:22:19.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.90.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/WebAssembly/Authentication.Msal/src/Interop/webpack.config.js
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2021-09-08 09:30:31.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 20.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/ts/signalr/package.json
+  detection_source: src/SignalR/clients/ts/signalr/package.json
+  last_updated_by: Andrew Stanton-Nurse
+  last_updated_on: 2018-01-19 22:26:31.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/ts/FunctionalTests/package.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Steve Sanderson
+  last_updated_on: 2021-09-21 16:28:05.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore
+  detection_source: Repo Metadata
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.23.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.23.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-05 11:35:16.000000000 Z
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.23.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 15.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: "@types/debug"
+  description: TypeScript definitions for debug
+  package_url: https://www.npmjs.com/@types/debug
+  version: 0.0.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 2.8.23
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.24
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 16.2.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@types/karma"
+  description: TypeScript definitions for karma
+  package_url: https://www.npmjs.com/@types/karma
+  version: 6.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17852/default_225a8b4aa9337d3099c972dab0fec46454cdc0c4.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.11.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-02 17:48:11.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.62.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.62.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Andrew Stanton-Nurse
+  last_updated_on: 2018-03-14 22:59:56.000000000 Z
+- name: es6-promise
+  description: A lightweight library that provides tools for organizing asynchronous
+    code
+  package_url: https://www.npmjs.com/es6-promise
+  version: 4.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16051/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-02 17:48:11.000000000 Z
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 44.2.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/JSInterop/Microsoft.JSInterop.JS/src/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 3.99.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  version: 13.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/Components/Web.JS/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-ie-launcher
+  description: A Karma plugin. Launcher for Internet Explorer
+  package_url: https://www.npmjs.com/karma-ie-launcher
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16553/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-junit-reporter
+  description: A Karma plugin. Report results in junit xml format
+  package_url: https://www.npmjs.com/karma-junit-reporter
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16695/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-mocha-reporter
+  description: Karma reporter with mocha style logging
+  package_url: https://www.npmjs.com/karma-mocha-reporter
+  version: 2.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16127/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-safari-launcher
+  description: A Karma plugin. Launcher for Safari
+  package_url: https://www.npmjs.com/karma-safari-launcher
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16426/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: karma-sauce-launcher
+  description: A Karma plugin. Launch any browser on SauceLabs!
+  package_url: https://www.npmjs.com/karma-sauce-launcher
+  version: 4.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16460/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-03-02 18:12:03.000000000 Z
+- name: mitt
+  description: Tiny 200b functional Event Emitter / pubsub
+  package_url: https://www.npmjs.com/mitt
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18719/default_88ba18730de3c1cd8c358a23343f72c83971e808.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Doug Bunting
+  last_updated_on: 2023-02-16 22:09:20.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/signalr/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-02-16 14:27:06.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/FunctionalTests/package.json
+  last_updated_by: Ben Adams
+  last_updated_on: 2021-02-25 19:07:34.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: rollup-plugin-filesize
+  description: A rollup plugin to show filesize in the cli
+  package_url: https://www.npmjs.com/rollup-plugin-filesize
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16606/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: selenium-standalone
+  description: Installs a `selenium-standalone` command line to install and start
+    a standalone selenium server
+  package_url: https://www.npmjs.com/selenium-standalone
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17924/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/ProjectTemplates/test/Templates.Tests/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.27.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: terser-webpack-plugin
+  description: Terser plugin for webpack
+  package_url: https://www.npmjs.com/terser-webpack-plugin
+  version: 5.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2024-01-10 14:13:30.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/package-lock.json
+  detection_source: src/SignalR/clients/ts/package.json
+  last_updated_by: Javier Calvarro Nelson
+  last_updated_on: 2023-12-22 07:53:38.000000000 Z
+- name: Microsoft.Build.Framework
+  description: This package contains the Microsoft.Build.Framework assembly which
+    is a common assembly used by other MSBuild assemblies
+  package_url: https://www.nuget.org/Microsoft.Build.Framework
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13422/default_9b520b7c258654c414831abb72568e430492595c.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: Microsoft.Build.Tasks.Core
+  description: This package contains the Microsoft.Build.Tasks assembly which implements
+    the commonly used tasks of MSBuild
+  package_url: https://www.nuget.org/Microsoft.Build.Tasks.Core
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13744/default_482e6dd93176c59f6402194e60103b50888576af.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: Microsoft.Build.Utilities.Core
+  description: This package contains the Microsoft.Build.Utilities assembly which
+    is used to implement custom MSBuild tasks
+  package_url: https://www.nuget.org/Microsoft.Build.Utilities.Core
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13293/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  description: Replacement CodeDOM providers that use the new .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13106/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Middleware/WebSockets/samples/AutobahnTestAppAspNet4/packages.config
+  detection_source: src/Middleware/WebSockets/samples/AutobahnTestAppAspNet4/packages.config
+  last_updated_by: dotnet-maestro[bot]
+  last_updated_on: 2021-09-21 02:28:35.000000000 Z
+- name: Microsoft.Extensions.DependencyModel
+  description: Abstractions for reading `.deps` files
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyModel
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12941/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: Microsoft.Net.Compilers
+  description: 'Note: This package is deprecated'
+  package_url: https://www.nuget.org/Microsoft.Net.Compilers
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13170/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Middleware/WebSockets/samples/AutobahnTestAppAspNet4/packages.config
+  detection_source: src/Middleware/WebSockets/samples/AutobahnTestAppAspNet4/packages.config
+  last_updated_by: dotnet-maestro[bot]
+  last_updated_on: 2021-09-21 02:28:35.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: NuGet.Packaging
+  description: NuGet's implementation for reading nupkg package and nuspec package
+    specification files
+  package_url: https://www.nuget.org/NuGet.Packaging
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13476/default_9bed24fda7c43823a3e1a93400ac800e54f4524c.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: William Godbe
+  last_updated_on: 2024-02-12 20:57:58.000000000 Z
+- name: System.Diagnostics.DiagnosticSource
+  description: Provides Classes that allow you to decouple code logging rich
+  package_url: https://www.nuget.org/System.Diagnostics.DiagnosticSource
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13012/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  detection_source: src/Tools/GetDocumentInsider/src/GetDocument.Insider.csproj
+  last_updated_by: dotnet-maestro[bot]
+  last_updated_on: 2023-08-14 21:58:20.000000000 Z
+- name: System.Net.Http
+  description: Provides a programming interface for modern HTTP applications
+  package_url: https://www.nuget.org/System.Net.Http
+  version: 4.3.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12860/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: dotnet-maestro-bot
+  last_updated_on: 2023-09-20 10:14:43.000000000 Z
+- name: System.Security.Cryptography.Xml
+  description: Provides classes to support the creation and validation of XML digital
+    signatures
+  package_url: https://www.nuget.org/System.Security.Cryptography.Xml
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13303/default_4d1c8e39751da3e5e8bf7305f3f45ac90df4be6f.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/eng/tools/RepoTasks/RepoTasks.csproj
+  detection_source: eng/tools/RepoTasks/RepoTasks.csproj
+  last_updated_by: dotnet-maestro-bot
+  last_updated_on: 2023-09-20 10:14:43.000000000 Z
+- name: ch.qos.logback:logback-classic
+  description: Logback-classic module
+  version: 1.2.3
+  license: EPL-1.0,LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/test/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/test/build.gradle
+  last_updated_by: Brennan
+  last_updated_on: 2020-09-11 18:44:00.000000000 Z
+  vulnerabilities:
+  - name: logback serialization vulnerability
+    cve_id: CVE-2023-6378
+    cve_url: https://github.com/advisories/GHSA-vmq6-5m68-f53m
+    detected_date: Nov 30
+    severity: high
+    first_patched: 1.2.13
+- name: com.google.code.gson:gson
+  description: Gson JSON library
+  version: 2.8.9
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/core/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/core/build.gradle
+  last_updated_by: Mitch Denny
+  last_updated_on: 2023-03-29 23:50:18.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 4.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/core/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/core/build.gradle
+  last_updated_by: Mitch Denny
+  last_updated_on: 2023-03-29 23:50:18.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-api
+  description: Module "junit-jupiter-api" of JUnit 5
+  version: 5.3.1
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/test/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/test/build.gradle
+  last_updated_by: William Godbe
+  last_updated_on: 2020-09-02 00:37:56.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-engine
+  description: Module "junit-jupiter-engine" of JUnit 5
+  version: 5.3.1
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/test/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/test/build.gradle
+  last_updated_by: William Godbe
+  last_updated_on: 2020-09-02 00:37:56.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-params
+  description: Module "junit-jupiter-params" of JUnit 5
+  version: 5.3.1
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/test/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/test/build.gradle
+  last_updated_by: William Godbe
+  last_updated_on: 2020-09-02 00:37:56.000000000 Z
+- name: org.msgpack:jackson-dataformat-msgpack
+  description: Jackson extension that adds support for MessagePack
+  version: 0.8.20
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/messagepack/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/messagepack/build.gradle
+  last_updated_by: Brennan
+  last_updated_on: 2020-09-15 17:20:43.000000000 Z
+- name: org.msgpack:msgpack-core
+  description: Core library of the MessagePack for Java
+  version: 0.8.20
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/messagepack/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/messagepack/build.gradle
+  last_updated_by: Alexander Köplinger
+  last_updated_on: 2021-09-13 18:38:53.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/SignalR/clients/java/signalr/core/build.gradle
+  detection_source: src/SignalR/clients/java/signalr/core/build.gradle
+  last_updated_by: William Godbe
+  last_updated_on: 2020-09-02 00:37:56.000000000 Z
+- name: bootstrap
+  description: The most popular front-end framework for developing responsive
+  package_url: http://bower.io/bootstrap
+  version: 3.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Security/samples/ClaimsTransformation/bower.json
+  detection_source: src/Security/samples/ClaimsTransformation/bower.json
+  last_updated_by: Ryan Brandenburg
+  last_updated_on: 2019-02-05 22:31:15.000000000 Z
+- name: jquery-validation
+  description: Form validation made easy
+  package_url: http://bower.io/jquery-validation
+  version: 1.19.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Security/samples/ClaimsTransformation/bower.json
+  detection_source: src/Security/samples/ClaimsTransformation/bower.json
+  last_updated_by: Mackinnon Buck
+  last_updated_on: 2023-09-01 22:14:39.000000000 Z
+- name: jquery-validation-unobtrusive
+  description: Add-on to jQuery Validation to enable unobtrusive validation options
+    in data-* attributes
+  package_url: http://bower.io/jquery-validation-unobtrusive
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/officialmofabs/aspnetcore/blob/main/src/Security/samples/ClaimsTransformation/bower.json
+  detection_source: src/Security/samples/ClaimsTransformation/bower.json
+  last_updated_by: Mackinnon Buck
+  last_updated_on: 2023-09-01 22:14:39.000000000 Z
